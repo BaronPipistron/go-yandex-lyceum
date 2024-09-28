@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "sprint-0/lesson-3/4. Применимость else.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "sprint-0/lesson-3/4. Применимость else.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "sprint-0/lesson-3/4. Применимость else.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "sprint-0/lesson-3/4. Применимость else.md"
               }
             }
           }
@@ -148,24 +148,29 @@
   },
   "active": "f452bb9f7f26f942",
   "lastOpenFiles": [
-    "sprint-0/lesson-2/5. Работа над ошибками.md",
-    "sprint-0/lesson-2/6. Документация.md",
-    "sprint-0/lesson-2/src/time.go~",
-    "sprint-0/lesson-2/src/time.go",
-    "sprint-0/lesson-2/src/error.go~",
-    "sprint-0/lesson-2/src/error.go",
+    "sprint-0/lesson-3/tasks/6.go~",
+    "sprint-0/lesson-3/tasks/6.go",
+    "sprint-0/lesson-3/tasks/5.go~",
+    "sprint-0/lesson-3/tasks/5.go",
+    "sprint-0/lesson-3/tasks/4.go~",
+    "sprint-0/lesson-3/tasks/4.go",
+    "sprint-0/lesson-3/tasks/3.go~",
+    "sprint-0/lesson-3/tasks/3.go",
+    "sprint-0/lesson-3/tasks/2.go~",
+    "sprint-0/lesson-3/tasks/2.go",
+    "sprint-0/lesson-3/tasks/1.go~",
+    "sprint-0/lesson-3/3. Короткое объявление условных конструкций.md",
+    "sprint-0/lesson-3/4. Применимость else.md",
+    "sprint-0/lesson-3/2. Switch statement.md",
+    "sprint-0/lesson-3/1. Условные конструкции.md",
     "sprint-0/lesson-2/4. Пакеты и библиотеки.md",
+    "sprint-0/lesson-2/5. Работа над ошибками.md",
+    "README.md",
+    "sprint-0/lesson-2/6. Документация.md",
     "sprint-0/lesson-2/3. Первая программа.md",
     "sprint-0/lesson-2/5. Указатели.md",
-    "sprint-0/lesson-2/src/first_programm.go~",
-    "sprint-0/lesson-2/src/first_programm.go",
-    "sprint-0/lesson-2/src",
-    "hello.exe",
-    "hello.go",
-    "hello_world.go~",
     "sprint-0/lesson-2/2. Объявление переменных.md",
     "sprint-0/lesson-2/1. Типы данных.md",
-    "README.md",
     "sprint-0/lesson-1/Знакомство с Go.md"
   ]
 }
