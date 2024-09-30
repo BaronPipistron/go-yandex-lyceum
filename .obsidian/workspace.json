@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint-0/lesson-5/4. Рекурсия.md",
+                "file": "sprint-0/lesson-6/1. Массивы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint-0/lesson-5/4. Рекурсия.md",
+                "file": "sprint-0/lesson-6/1. Массивы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint-0/lesson-5/4. Рекурсия.md",
+                "file": "sprint-0/lesson-6/1. Массивы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint-0/lesson-5/4. Рекурсия.md"
+                "file": "sprint-0/lesson-6/1. Массивы.md"
               }
             }
           }
@@ -146,21 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a2a85949100ea3e",
+  "active": "85e4051569a36b04",
   "lastOpenFiles": [
-    "sprint-0/lesson-5/tasks/7.go~",
-    "sprint-0/lesson-5/tasks/7.go",
-    "sprint-0/lesson-5/tasks/6.go~",
-    "sprint-0/lesson-5/tasks/6.go",
-    "sprint-0/lesson-5/tasks/5.go",
-    "sprint-0/lesson-5/tasks/4.go~",
-    "sprint-0/lesson-5/tasks/4.go",
-    "sprint-0/lesson-5/tasks/3.go~",
-    "sprint-0/lesson-5/tasks/3.go",
-    "sprint-0/lesson-5/tasks/2.go~",
-    "sprint-0/lesson-5/tasks/2.go",
-    "sprint-0/lesson-5/3. Вызов функции.md",
+    "sprint-0/lesson-7",
+    "sprint-0/lesson-6/tasks/5.go~",
+    "sprint-0/lesson-6/tasks/5.go",
+    "sprint-0/lesson-6/tasks/4.go~",
+    "sprint-0/lesson-6/tasks/4.go",
+    "sprint-0/lesson-6/tasks/3.go~",
+    "sprint-0/lesson-6/tasks/3.go",
+    "sprint-0/lesson-6/tasks/2.go",
+    "sprint-0/lesson-6/tasks/1.go~",
+    "sprint-0/lesson-6/tasks/1.go",
+    "sprint-0/lesson-6/tasks",
     "sprint-0/lesson-5/4. Рекурсия.md",
+    "sprint-0/lesson-6/1. Массивы.md",
+    "sprint-0/lesson-5/3. Вызов функции.md",
     "sprint-0/lesson-5/2. Сигнатура функции.md",
     "sprint-0/lesson-5/1. Функции в Go.md",
     "sprint-0/lesson-5/src/Untitled.md",
