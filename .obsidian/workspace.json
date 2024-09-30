@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c08f04e314a486ff",
+        "id": "0d1a19131777bb78",
         "type": "tabs",
         "children": [
           {
-            "id": "f452bb9f7f26f942",
+            "id": "3a2a85949100ea3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint-0/lesson-3/4. Применимость else.md",
+                "file": "sprint-0/lesson-5/4. Рекурсия.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint-0/lesson-3/4. Применимость else.md",
+                "file": "sprint-0/lesson-5/4. Рекурсия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint-0/lesson-3/4. Применимость else.md",
+                "file": "sprint-0/lesson-5/4. Рекурсия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint-0/lesson-3/4. Применимость else.md"
+                "file": "sprint-0/lesson-5/4. Рекурсия.md"
               }
             }
           }
@@ -146,21 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f452bb9f7f26f942",
+  "active": "3a2a85949100ea3e",
   "lastOpenFiles": [
-    "sprint-0/lesson-3/tasks/6.go~",
-    "sprint-0/lesson-3/tasks/6.go",
-    "sprint-0/lesson-3/tasks/5.go~",
-    "sprint-0/lesson-3/tasks/5.go",
-    "sprint-0/lesson-3/tasks/4.go~",
-    "sprint-0/lesson-3/tasks/4.go",
-    "sprint-0/lesson-3/tasks/3.go~",
-    "sprint-0/lesson-3/tasks/3.go",
-    "sprint-0/lesson-3/tasks/2.go~",
-    "sprint-0/lesson-3/tasks/2.go",
-    "sprint-0/lesson-3/tasks/1.go~",
-    "sprint-0/lesson-3/3. Короткое объявление условных конструкций.md",
+    "sprint-0/lesson-5/tasks/7.go~",
+    "sprint-0/lesson-5/tasks/7.go",
+    "sprint-0/lesson-5/tasks/6.go~",
+    "sprint-0/lesson-5/tasks/6.go",
+    "sprint-0/lesson-5/tasks/5.go",
+    "sprint-0/lesson-5/tasks/4.go~",
+    "sprint-0/lesson-5/tasks/4.go",
+    "sprint-0/lesson-5/tasks/3.go~",
+    "sprint-0/lesson-5/tasks/3.go",
+    "sprint-0/lesson-5/tasks/2.go~",
+    "sprint-0/lesson-5/tasks/2.go",
+    "sprint-0/lesson-5/3. Вызов функции.md",
+    "sprint-0/lesson-5/4. Рекурсия.md",
+    "sprint-0/lesson-5/2. Сигнатура функции.md",
+    "sprint-0/lesson-5/1. Функции в Go.md",
+    "sprint-0/lesson-5/src/Untitled.md",
+    "sprint-0/lesson-4/4. Range.md",
+    "sprint-0/lesson-4/2. Цикл while в Go.md",
+    "sprint-0/lesson-4/1. Циклы.md",
+    "sprint-0/lesson-4/5. Бесконечный цикл.md",
+    "sprint-0/lesson-4/3. Break и continue.md",
     "sprint-0/lesson-3/4. Применимость else.md",
+    "sprint-0/lesson-3/3. Короткое объявление условных конструкций.md",
     "sprint-0/lesson-3/2. Switch statement.md",
     "sprint-0/lesson-3/1. Условные конструкции.md",
     "sprint-0/lesson-2/4. Пакеты и библиотеки.md",
